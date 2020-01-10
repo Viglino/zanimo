@@ -1,0 +1,2 @@
+# zanimo
+SVG animal icons
