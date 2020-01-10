@@ -13,3 +13,5 @@
 ![](./buddy/buddy_indien4.svg)
 
 ## Other SVG icons
+
+<img src="https://github.com/Viglino/zanimo/blob/master/svg/floyd.svg" height=120 /> <img src="https://github.com/Viglino/zanimo/blob/master/svg/cadenas%202.svg" height=120 /> <img src="https://github.com/Viglino/zanimo/blob/master/svg/Tube.svg" height=120 />
