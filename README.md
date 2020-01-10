@@ -2,6 +2,6 @@
 
 SVG animal icons
 
-![](./svg/za-dog.svg)
-![](./svg/za-cat.svg)
-![](./svg/za-tictac.svg)
+![](./zanimo/za-dog.svg)
+![](./zanimo/za-cat.svg)
+![](./zanimo/za-tictac.svg)
