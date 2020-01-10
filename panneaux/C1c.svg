@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="591.0625"
+   height="636.62372"
+   id="svg8761"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="C1c.svg">
+  <defs
+     id="defs8763" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="210.16311"
+     inkscape:cy="179.11644"
+     inkscape:document-units="px"
+     inkscape:current-layer="g15130"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5966">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Signalisation routiere</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:date>08/10/2012</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Desmoric</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Domaine Public</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Desmoric</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:source>http://routes.wikia.com/wiki/Signalisation_routiere_francaise</dc:source>
+        <dc:description>Panneau de signalisation routiere applicable en France issu de l'arrete du 24 novembre 1967 sur la signalisation routiere decrite dans L'instruction Interministerielle sur la Signalisation Routiere (depuis 2002).</dc:description>
+        <dc:language>French</dc:language>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-74.476871,-68.267514)">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="337.32849"
+       y="704.40295"
+       id="text8780"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8782"
+         x="337.32849"
+         y="704.40295">C1c</tspan></text>
+    <g
+       id="g15130">
+      <g
+         id="g10368"
+         transform="translate(0.35187143,0.11126429)">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.86630392;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect11228-9"
+           width="588.20837"
+           height="588.2085"
+           x="75.543945"
+           y="69.575241"
+           ry="40.194893" />
+        <rect
+           ry="13.678816"
+           y="100.98488"
+           x="106.95355"
+           height="525.38922"
+           width="525.38916"
+           id="rect14523-4"
+           style="fill:#0000ff;fill-opacity:1;stroke:none" />
+      </g>
+      <g
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         id="text14525">
+        <path
+           d="m 400.49384,184.8465 c 20.83315,2.279 39.22506,9.76597 55.17578,22.46093 16.11305,12.69564 27.66903,27.01854 34.66797,42.96875 8.7888,17.09012 13.18333,35.40065 13.18359,54.93164 -2.6e-4,9.11482 -0.0816,15.05557 -0.24414,17.82227 -1.30234,22.46114 -5.94101,41.17856 -13.91602,56.15234 -7.97549,14.97411 -16.68317,26.44871 -26.12304,34.42383 -20.50801,18.71756 -42.07375,28.23904 -64.69727,28.56446 l -67.87109,0 0,100.34179 -66.89453,0 0,-357.66601 136.71875,0 m -68.84766,186.03515 55.17578,0 c 8.46339,-0.97639 15.46208,-3.09227 20.99609,-6.34765 14.97379,-8.95164 23.9256,-24.49524 26.85547,-46.63086 0.48809,-20.01929 -3.58091,-35.23737 -12.20703,-45.6543 -8.62647,-10.41638 -20.10107,-16.35713 -34.42383,-17.82227 l -56.39648,0 0,116.45508"
+           style="font-size:500px;font-variant:normal;font-stretch:normal;font-family:Caracteres L1;-inkscape-font-specification:Caracteres L1;fill:#ffffff"
+           id="path2994" />
+      </g>
+      <g
+         transform="matrix(0.36380286,0,0,0.36380286,264.46962,390.07349)"
+         id="g14668">
+        <path
+           style="fill:#ffffff;stroke:#0000ff;stroke-width:2.60528231px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 751.95886,366.35813 43.42357,188.82679 24.34355,0 0,47.37119 51.97671,0 0,-47.37119 26.97525,0 L 939.4698,367.674 c 0,0 -82.24164,-24.34352 -187.51094,-1.31587 z"
+           id="path11426"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccc" />
+        <path
+           style="fill:#0000ff;stroke:#000000;stroke-width:2.60528231px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 789.65425,431.39483 113.05062,0 8.83936,-41.40539 c 0,0 -43.79417,-6.04798 -65.82988,-6.04798 -22.03572,0 -65.82991,6.04798 -65.82991,6.04798 z"
+           id="path11430"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccczcc" />
+      </g>
+    </g>
+  </g>
+</svg>
