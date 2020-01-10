@@ -12,6 +12,10 @@
 ![](./buddy/buddy_india.svg)
 ![](./buddy/buddy_indien4.svg)
 
+## cc icons
+
+![](./cc/by-nc-sa.svg)
+
 ## Signalisation routière (french)
 
 <img src="https://github.com/Viglino/zanimo/blob/master/panneaux/C20a.svg" height=120 /> <img src="https://github.com/Viglino/zanimo/blob/master/panneaux/B21c1.svg" height=120 /> <img src="https://github.com/Viglino/zanimo/blob/master/panneaux/B21c1.svg" height=120 />
