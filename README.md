@@ -12,6 +12,12 @@
 ![](./buddy/buddy_india.svg)
 ![](./buddy/buddy_indien4.svg)
 
+## Easer eggs icons 
+
+![](./eggs/egg1.svg)
+![](./eggs/egg2.svg)
+![](./eggs/egg3.svg)
+
 ## cc icons
 
 ![](./cc/by-nc-sa.svg)
